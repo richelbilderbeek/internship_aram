@@ -2,8 +2,12 @@
 
 Internship of Aram at the Rijksuniversiteit Groningen.
 
-## Where
+## Info
 
+ * When:
+    * Monday March 16th to and including Friday March 20th (one week)
+    * Monday May 4th to and including Friday May 15th (two weeks week),
+      exluding May 5th, due to Liberation Day
  * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
  * Rooms:
     * Canteen, at ground floor
