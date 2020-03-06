@@ -84,9 +84,21 @@ Time       |What                                    |Where
 
 ### Who is Aram?
 
-Aram is a 14 year old scholar,
+Aram is a 15 year old scholar,
 that follows Richel's programming course.
 He has been the one improving the documentation of the game Nature Zen.
+
+Or how Aram would describe himself:
+
+> Hey! So this is me. I don't know what to put here because i don't know what has been said about me already.
+> Short introduction just in case,
+> I'm Aram,
+> 15 years old,
+> Year 3 on the Montessori Vaklyceum,
+> I love computers and helping others,
+> I can work alone pretty well.
+> 
+> Any questions about me or anything, just ask
 
 ### What should I do during my slot
 
