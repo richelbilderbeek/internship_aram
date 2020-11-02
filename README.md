@@ -13,6 +13,10 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 
 ![](lb.png)
 
+## Deliverables
+
+A report with the title: 'Transmembrane prediction in SARS-CoV-2'.
+
 ## Planning
 
 ## Monday November 23rd 2020
