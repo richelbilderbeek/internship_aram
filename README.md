@@ -5,76 +5,71 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 ## Info
 
  * When:
-    * Monday March 16th to and including Friday March 20th (one week)
-    * Monday May 4th to and including Friday May 15th (two weeks week),
-      exluding May 5th, due to Liberation Day
+    * Monday November 23rd to and including Friday December 4th (one week)
  * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
  * Rooms:
     * Canteen, at ground floor
-    * Theoretical Biological department, mostly at 5th floor
+    * MIMY, mostly at 6th floor
 
 ![](lb.png)
 
-## Planning for first week
- 
-From Monday March 16th to and including Friday March 20th (one week): Lauren Seex
-is boss here and can be found at 5173.506 :+1:
+## Planning
 
-## Planning for second and third week
-
-## Monday May 4th 2019
+## Monday November 23rd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Tuesday May 5th 2019
-
-Official holiday.
-
-## Wednesday May 6th 2019
+## Tuesday November 24th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Thursday May 7th 2019
+## Wednesday November 25th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Friday May 8th 2019
+## Thursday November 26th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Monday May 11th 2019
+## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Tuesday May 12th 2019
+## Monday November 30th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Wednesday May 13th 2019
+## Tuesday December 1st 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Thursday May 14th 2019
+## Wednesday December 2nd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 .          |.                                       |.
 
-## Friday May 15th 2019
+## Thursday December 3rd 2020
+
+Time       |What                                    |Where
+-----------|----------------------------------------|-------------------------------------------------
+.          |.                                       |.
+
+## Friday December 4th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
@@ -86,7 +81,11 @@ Time       |What                                    |Where
 
 Aram is a 15 year old scholar,
 that follows Richel's programming course.
-He has been the one improving the documentation of the game Nature Zen.
+
+Some of his projects:
+
+ * [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
+ * [Tank Battalion](https://github.com/djog/djog_unos_2020)
 
 Or how Aram would describe himself:
 
