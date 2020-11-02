@@ -19,7 +19,7 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+9:00-10:00 |MIMY meeting                            |`https://meet.google.com/???-????-cez`
 
 ## Tuesday November 24th 2020
 
@@ -49,7 +49,7 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+9:00-10:00 |Cell Biology meeting                    |`meet.google.com/???-????-dbq`
 
 ## Tuesday December 1st 2020
 
@@ -73,7 +73,7 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-16:45-17:00|Hand in report and evaluate             |.
+15:45-16:00|Hand in report and evaluate             |.
 
 ## Questions for supervisors
 
@@ -126,7 +126,7 @@ We'll find a solution :+1:
 
 ### What is the goal of the internship?
 
-To learn how working at a university is like.
+[unure yet]To learn how working at a university is like.
 
 ### What will the intern deliver?
 
