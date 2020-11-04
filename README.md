@@ -5,13 +5,13 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 ## Info
 
  * When:
-    * Monday November 23rd to and including Friday December 4th (one week)
+    * Monday November 23rd to and including Friday December 4th (two weeks)
  * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
  * Rooms:
     * Canteen, at ground floor
     * MIMY, mostly at 6th floor
 
-![](lb.png)
+![](linnaeusborg.png)
 
 ## Deliverables
 
