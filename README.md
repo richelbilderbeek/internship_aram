@@ -130,7 +130,7 @@ We'll find a solution :+1:
 
 ### What is the goal of the internship?
 
-[unure yet]To learn how working at a university is like.
+To learn how working at a university is like.
 
 ### What will the intern deliver?
 
