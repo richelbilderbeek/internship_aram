@@ -8,10 +8,8 @@ Internship of Aram at the Rijksuniversiteit Groningen.
     * Monday November 23rd to and including Friday December 4th (two weeks)
  * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
  * Rooms:
-    * Canteen, at ground floor
+    * Mostly online
     * MIMY, mostly at 6th floor
-
-![](linnaeusborg.png)
 
 ## Deliverables
 
@@ -23,7 +21,9 @@ A report with the title: 'Transmembrane prediction in SARS-CoV-2'.
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-9:00-10:00 |MIMY meeting                            |`https://meet.google.com/???-????-cez`
+ 8:30-9:00 |Meeting Richel                          |Discord
+ 9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
+10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 
 ## Tuesday November 24th 2020
 
@@ -53,7 +53,8 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-9:00-10:00 |Cell Biology meeting                    |`meet.google.com/???-????-dbq`
+ 9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
+10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 
 ## Tuesday December 1st 2020
 
