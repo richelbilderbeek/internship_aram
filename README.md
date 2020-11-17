@@ -13,6 +13,10 @@ Internship of Aram at the Rijksuniversiteit Groningen.
     * Molecular Immunology (MOLIMM), mostly at 6th floor at West side of LB
  * Working hours: 8:30-16:00
 
+![](linneausborg_annotated.png)
+
+> Map of the Linneausborg. [1] main entrance [2] MOLIMM corner, 5171.06xx
+
 ## Deliverables
 
 A [report](report.md)
