@@ -150,6 +150,6 @@ To learn how working at a university is like.
 
 ### What will the intern deliver?
 
-[To be determined]
+A [report](report.md).
 
 
