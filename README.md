@@ -6,14 +6,16 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 
  * When:
     * Monday November 23rd to and including Friday December 4th (two weeks)
- * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
+ * Building: 
+    * [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
  * Rooms:
     * Mostly online
-    * MIMY, mostly at 6th floor
+    * Molecular Immunology (MOLIMM), mostly at 6th floor at West side of LB
+ * Working hours: 8:30-16:00
 
 ## Deliverables
 
-A report with the title: 'Transmembrane prediction in SARS-CoV-2'.
+A [report](report.md)
 
 ## Planning
 
@@ -24,30 +26,36 @@ Time       |What                                    |Where
  8:30-9:00 |Meeting Richel                          |Discord
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
+13:00-14:00|?Meeting with student                   |Students room, sixth floor, West side 
+14:00-15:00|?Meeting with student                   |Students room, sixth floor, West side
 
 ## Tuesday November 24th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with student                   |Students room, sixth floor, West side 
+14:00-15:00|?Meeting with student                   |Students room, sixth floor, West side
 
 ## Wednesday November 25th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with student                   |5171.6??
+14:00-15:00|?Meeting with student                   |5171.6??
 
 ## Thursday November 26th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Monday November 30th 2020
 
@@ -55,29 +63,36 @@ Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
+13:00-14:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Tuesday December 1st 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Wednesday December 2nd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with postdoc                   |5171.6??
+14:00-15:00|?Meeting with postdoc                   |5171.6??
 
 ## Thursday December 3rd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-.          |.                                       |.
+13:00-14:00|?Meeting with postdoc                   |5171.6??
+14:00-15:00|?Meeting with postdoc                   |5171.6??
 
 ## Friday December 4th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+13:00-14:00|?Meeting with prof                      |5171.6??
+14:00-15:00|?Meeting with prof                      |5171.6??
 15:45-16:00|Hand in report and evaluate             |.
 
 ## Questions for supervisors
