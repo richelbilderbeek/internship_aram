@@ -27,7 +27,7 @@ Time       |What                                    |Where
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 13:00-14:00|?Meeting with Dutch student             |Students room, sixth floor, West side 
-14:00-15:00|Meeting with Hugo                       |Students room, sixth floor, West side
+14:00-15:00|Meeting with Hugo                       |5171.0626
 
 ## Tuesday November 24th 2020
 
