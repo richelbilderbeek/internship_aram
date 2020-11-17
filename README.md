@@ -40,8 +40,8 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with Dutch student, ?Hugo      |5171.6??
-14:00-15:00|?Meeting with Dutch student, ?Hugo      |5171.6??
+13:00-14:00|?Meeting with Dutch student, ?Marco     |5171.6??
+14:00-15:00|?Meeting with Dutch student, ?Marco     |5171.6??
 
 ## Thursday November 26th 2020
 
