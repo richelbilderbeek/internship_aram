@@ -26,36 +26,36 @@ Time       |What                                    |Where
  8:30-9:00 |Meeting Richel                          |Discord
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
-13:00-14:00|?Meeting with student                   |Students room, sixth floor, West side 
-14:00-15:00|?Meeting with student                   |Students room, sixth floor, West side
+13:00-14:00|?Meeting with Dutch student             |Students room, sixth floor, West side 
+14:00-15:00|?Meeting with Dutch student             |Students room, sixth floor, West side
 
 ## Tuesday November 24th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with student                   |Students room, sixth floor, West side 
-14:00-15:00|?Meeting with student                   |Students room, sixth floor, West side
+13:00-14:00|?Meeting with Dutch student             |Students room, sixth floor, West side 
+14:00-15:00|?Meeting with Dutch student             |Students room, sixth floor, West side
 
 ## Wednesday November 25th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with student                   |5171.6??
-14:00-15:00|?Meeting with student                   |5171.6??
+13:00-14:00|?Meeting with Dutch student             |5171.6??
+14:00-15:00|?Meeting with Dutch student             |5171.6??
 
 ## Thursday November 26th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with PhD                       |5171.6??
-14:00-15:00|?Meeting with PhD                       |5171.6??
+13:00-14:00|?Meeting with foreign student           |5171.6??
+14:00-15:00|?Meeting with foreign student           |5171.6??
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with PhD                       |5171.6??
-14:00-15:00|?Meeting with PhD                       |5171.6??
+13:00-14:00|?Meeting with foreign student           |5171.6??
+14:00-15:00|?Meeting with foreign student           |5171.6??
 
 ## Monday November 30th 2020
 
