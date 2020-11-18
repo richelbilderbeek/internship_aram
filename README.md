@@ -30,17 +30,19 @@ Time       |What                                    |Where
  8:30-9:00 |Meeting Richel                          |Discord
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
-13:30-14:00|?Meeting with Anmara                    |5171.070?
+13:30-14:00|Meeting with Anmara                     |5171.070?
 13:00-14:00|Meeting with Pieter                     |5171.0606
 14:00-15:00|Meeting with Hugo                       |5171.0626 (aka The Student Room)
-15:00-15:30|?Meeting with Anmara                    |5171.070?
+15:45-16:00|Meeting Richel                          |Discord
 
 ## Tuesday November 24th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:45 |Meeting Richel                          |Discord
 13:00-14:00|Meeting with Jelleke                    |5171.0626
 14:00-15:00|Meeting with Jildau                     |5171.0626 (aka The Student Room)
+15:45-16:00|Meeting Richel                          |Discord
 
 ## Wednesday November 25th 2020
 
