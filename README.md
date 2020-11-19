@@ -48,22 +48,22 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with student                   |5171.6??
+13:00-14:00|Meeting with Shweta                     |5171.603
 14:00-15:00|Meeting with Marco                      |5171.0626 (aka The Student Room)
 
 ## Thursday November 26th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with Felix                     |5171.6??
-14:00-15:00|?Meeting with Felix                     |5171.6??
+13:00-14:00|Meeting with Felix                      |5171.603
+14:00-15:00|?Meeting with student                   |5171.6??
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with student                   |5171.6??
-14:00-15:00|?Meeting with student                   |5171.6??
+13:00-14:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Monday November 30th 2020
 
