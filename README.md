@@ -99,9 +99,10 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with prof                      |5171.6??
-14:00-15:00|?Meeting with prof                      |5171.6??
-15:45-16:00|Hand in report and evaluate             |.
+8:30-9:30  |No work yet                             |At home
+15:14      |Hand in report                          |On GitHub
+15:14-15:30|Evaluate                                |Area near coffee machine
+15:30-16:30|Meeting with prof                       |5171.6?? (aka Geerts's office)
 
 ## Questions for supervisors
 
