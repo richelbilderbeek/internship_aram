@@ -58,7 +58,7 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|Meeting with Felix                      |5171.603
-14:00-15:00|?Meeting with ?Myrthe                   |5171.6??
+14:00-15:00|Meeting with Myrthe                     |5171.604
 
 ## Friday November 27th 2020
 
