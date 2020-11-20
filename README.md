@@ -58,14 +58,14 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|Meeting with Felix                      |5171.603
-14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
+14:00-15:00|?Meeting with ?Myrthe                   |5171.6??
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|Meeting with Sjors                      |5171.604
-14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
+14:00-15:00|Meeting with Femmy                      |5171.60?
 
 ## Monday November 30th 2020
 
