@@ -56,14 +56,14 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|Meeting with Felix                      |5171.603
-14:00-15:00|?Meeting with student                   |5171.6??
+14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|Meeting with Sjors                      |5171.604
-14:00-15:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
 
 ## Monday November 30th 2020
 
@@ -71,15 +71,15 @@ Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
-13:00-14:00|?Meeting with PhD                       |5171.6??
-14:00-15:00|?Meeting with PhD                       |5171.6??
+13:00-14:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
+14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
 
 ## Tuesday December 1st 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with PhD                       |5171.6??
-14:00-15:00|?Meeting with ?Alexine                  |5171.6??
+13:00-14:00|?Meeting with ?Alexine/?Femmy/?Myrthe   |5171.6??
+14:00-15:00|?Meeting with ?Alexine/?Femmy/?Myrthe   |5171.6??
 
 ## Wednesday December 2nd 2020
 
