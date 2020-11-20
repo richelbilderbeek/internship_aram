@@ -62,7 +62,7 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with PhD                       |5171.6??
+13:00-14:00|Meeting with Sjors                      |5171.604
 14:00-15:00|?Meeting with PhD                       |5171.6??
 
 ## Monday November 30th 2020
@@ -79,7 +79,7 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 13:00-14:00|?Meeting with PhD                       |5171.6??
-14:00-15:00|?Meeting with PhD                       |5171.6??
+14:00-15:00|?Meeting with ?Alexine                  |5171.6??
 
 ## Wednesday December 2nd 2020
 
