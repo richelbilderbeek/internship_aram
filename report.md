@@ -13,7 +13,8 @@ Guidelines:
  * References:
     * No need for references if common and true knowledge (e.g. DNA contains the
       heritable material for a cell)
-    * For things that may be true or false, refer the the literature
+    * For things that may be true or false, refer the the literature.
+      Tip: use Google Scholar, https://scholar.google.com/
     * When in doubt, use a reference. Wikipedia is not a reference, but it does
       refer to the academic literature.   
  * Remove these guideline and comments in square brackets for the final versiom
