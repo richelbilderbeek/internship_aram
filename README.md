@@ -30,6 +30,7 @@ Time       |What                                    |Where
  8:30-9:00 |Meeting Richel                          |Discord
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
+12:15-12:20|Meeting with Richel outside             |Secondary entrance labeled 2 on map
 12:30-13:00|Meeting with Anmara                     |5171.070? (aka The Secretary's Office)
 13:00-14:00|Meeting with Pieter                     |5171.0606
 14:00-15:00|Meeting with Hugo                       |5171.0626 (aka The Student Room)
