@@ -24,6 +24,10 @@ Guidelines:
 [Tell what is missing and why it is important to add]
 [Give all info needed for a reader to understand the hypothesis. When in doubt: remove]
 
+![The topology prediction by TMHMM](sars_cov_2_topology_tmhmm.png)
+
+![The topology prediction by PureseqTM](sars_cov_2_topology_pureseqtmr.png)
+
 ## Hypothesis
 
 [Modify to proper English]
