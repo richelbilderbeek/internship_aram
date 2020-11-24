@@ -79,8 +79,8 @@ Time       |What                                    |Where
  8:30-8:35 |Meeting Richel                          |Discord
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
-13:00-14:00|?Meeting with postdoc                   |5171.6??
-14:00-15:00|?Meeting with postdoc                   |5171.6??
+13:00-14:00|?Meeting with ?                         |5171.6??
+14:00-15:00|?Meeting with ?                         |5171.6??
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Tuesday December 1st 2020
@@ -88,8 +88,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with ?Alexine                  |5171.6??
-14:00-15:00|?Meeting with ?Alexine                  |5171.6??
+13:00-14:00|?Meeting with ?Sami                     |5171.60?
+14:00-15:00|?Meeting with ?Alexine                  |5171.60?
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
