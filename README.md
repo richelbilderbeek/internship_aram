@@ -58,51 +58,66 @@ Time       |What                                    |Where
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:35 |Meeting Richel                          |Discord
 13:00-14:00|Meeting with Felix                      |5171.603
 14:00-15:00|Meeting with Myrthe                     |5171.604
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday November 27th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:35 |Meeting Richel                          |Discord
 13:00-14:00|Meeting with Sjors                      |5171.604
 14:00-15:00|Meeting with Femmy                      |5171.60?
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Monday November 30th 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:35 |Meeting Richel                          |Discord
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
-13:00-14:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
-14:00-15:00|?Meeting with ?Femmy/?Myrthe            |5171.6??
+13:00-14:00|?Meeting with postdoc                   |5171.6??
+14:00-15:00|?Meeting with postdoc                   |5171.6??
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Tuesday December 1st 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
-13:00-14:00|?Meeting with ?Alexine/?Femmy/?Myrthe   |5171.6??
-14:00-15:00|?Meeting with ?Alexine/?Femmy/?Myrthe   |5171.6??
+ 8:30-8:35 |Meeting Richel                          |Discord
+13:00-14:00|?Meeting with ?Alexine                  |5171.6??
+14:00-15:00|?Meeting with ?Alexine                  |5171.6??
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:35 |Meeting Richel                          |Discord
 13:00-14:00|?Meeting with postdoc                   |5171.6??
 14:00-15:00|?Meeting with postdoc                   |5171.6??
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Thursday December 3rd 2020
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
+ 8:30-8:35 |Meeting Richel                          |Discord
 13:00-14:00|?Meeting with postdoc                   |5171.6??
 14:00-15:00|?Meeting with postdoc                   |5171.6??
+15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday December 4th 2020
+
+:warning: not discussed with Aram yet :warning:
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
 8:30-9:30  |No work yet                             |At home
+9:30-9:35  |Meeting Richel                          |Discord
 15:14      |Hand in report                          |On GitHub
 15:14-15:30|Evaluate                                |Area near coffee machine
 15:30-16:30|Meeting with prof                       |5171.6?? (aka Geerts's office)
