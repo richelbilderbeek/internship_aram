@@ -41,8 +41,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:40 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Jelleke                    |5171.060?
-14:00-15:00|Meeting with Jildau                     |5171.0626 (aka The Student Room)
+13:00-14:00|Meeting with Jelleke                    |5171.0626 (aka The Student Room)
+14:00-15:00|Meeting with Jildau                     |5171.0606
 15:50-16:00|Meeting Richel                          |Discord
 
 ## Wednesday November 25th 2020
