@@ -88,8 +88,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with ?Sami                     |5171.60?
-14:00-15:00|Meeting with Alexine                    |5171.604
+11:30-12:30|Meeting with Sami                       |5171.608 (right of Geert's office)
+?12:3-13:30|Meeting with Alexine                    |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
