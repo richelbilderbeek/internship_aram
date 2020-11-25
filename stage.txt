@@ -25,7 +25,37 @@ This will contribute to a chain of amino acids.
 When the last amino acid is addded, the chain will fall and forms into an complex shape to form the protein.
 
 
+SARS-CoV-2 investigation 
+
+SARS-CoV-2 is a virus stain that is the cause of the infection of the coronavirus, COVID-19.
+Both the original SARS-CoV and current SARS-CoV-2 use the same entry receptor and human poteases as entry activators.
+That is human ACE2(hACE2).
+A virus surface spike protein mediates mediates SARS-CoV-2 entry into cells.
+The SARS-CoV-2 spike then binds itself to the human receptor (ACE2) with its receptor-binding domain (RBD).
+It is proteolytically broken down by an enzyme that breaks down proteins and peptides (proteases).
+The SARS-CoV-2 RBD binds better with hACE2 than the SARS-CoV RBD.
+The spike of SARS-CoV-2 in its whole actually is comparable or lower than the one of SARS-CoV.
+That means that even though SARS-CoV-2 RBD is stronger than the SARS-CoV RBD, it is also less exposed.
+SARS-CoV-2 is already activated by proprotein convertase furin which means that it's less dependend on target cell proteases to enter.
+
+Short summary: SARS-CoV-2 has high evasiveness with still a lot of strength. It also is much more severe in terms of danger than SARS-CoV
+
+When the virus enters an healthy cell, the virus spreads RNA to tell ribosomes to reproduce the virus.
+From there, it'll go to the edges of the cell for release so it can infect other cells from there.
+One cell can release million copies of the virus which will then infect other surrounded cells.
 
 
 
-Self note 24/11/2020: check spelling/grammar. Look if info received in the university matches with the info I looked up myself
+
+
+Refrences:
+https://www.pnas.org/content/117/21/11727
+https://www.coronaviruspreventionnetwork.org/vaccine-basics/
+https://www.youtube.com/watch?v=dA70ZdYhhCg
+
+Self note 24/11/2020: Check spelling/grammar. Look if info received in the university matches with the info I looked up myself
+
+Self note 25/11/2020: Next time read more through the content before deciding if it is usefull or not.
+		   Review the content on other sources to validate the statements made.
+
+
