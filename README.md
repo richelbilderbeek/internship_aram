@@ -97,7 +97,7 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with postdoc                   |5171.6??
+13:00-14:00|?Meeting with Maxim?                   |5171.60?8 (right of Geert's office) 
 14:00-15:00|?Meeting with postdoc                   |5171.6??
 15:55-16:00|Meeting Richel                          |Discord
 
