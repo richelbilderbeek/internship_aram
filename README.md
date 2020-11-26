@@ -65,6 +65,8 @@ Time       |What                                    |Where
 
 ## Friday November 27th 2020
 
+ * Maybe a nice day to run the `pureseqtmr` SARS-CoV-2 code
+
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
@@ -73,6 +75,8 @@ Time       |What                                    |Where
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Monday November 30th 2020
+
+ * Maybe a nice day to run the `tmhmm` SARS-CoV-2 code on Peregrine
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
@@ -88,8 +92,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with ?Sami                     |5171.60?
-14:00-15:00|Meeting with Alexine                    |5171.604
+11:30-12:30|Meeting with Sami                       |5171.608 (right of Geert's office)
+12:30-13:30|Meeting with Alexine                    |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
@@ -97,8 +101,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with postdoc                   |5171.6??
-14:00-15:00|?Meeting with postdoc                   |5171.6??
+13:00-14:00|Meeting with Deepti                     |5171.604 (left of Geert's office) 
+14:00-15:00|?Meeting with Maxim                     |5171.6?? (right of Geert's office)
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Thursday December 3rd 2020
