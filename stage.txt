@@ -45,6 +45,16 @@ From there, it'll go to the edges of the cell for release so it can infect other
 One cell can release million copies of the virus which will then infect other surrounded cells.
 
 
+Build up of the SARSr-CoV-2 proteins,
+
+The E, N, S and M protein are the big structural proteins for the corona viruses.
+At the virion of SARSr-CoV-2, the RNA genome at the inner edge of the envelope that is made by the E protein.
+The S protein is located in the virion envelope and as purpose has being the attachment and fusion protein.
+The N protein (nucleprotein) is a soluble protien that packs itself tightly against the shell of the virus (viral capsid). 
+The capsid that he packs himself to, is made by the RNA genome that the protein packages itself.
+The M protein has the central role of giving the virus the proper shape (morphogenesis) by interacting with other viral proteins.
+The S, E and M together form the viral envolope (the furthest out layer).
+
 
 
 
@@ -52,10 +62,16 @@ Refrences:
 https://www.pnas.org/content/117/21/11727
 https://www.coronaviruspreventionnetwork.org/vaccine-basics/
 https://www.youtube.com/watch?v=dA70ZdYhhCg
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347032/
+
+
 
 Self note 24/11/2020: Check spelling/grammar. Look if info received in the university matches with the info I looked up myself
 
 Self note 25/11/2020: Next time read more through the content before deciding if it is usefull or not.
 		   Review the content on other sources to validate the statements made.
 
+Self note 26/11/2020: Use the information you gained today.
+		   Write down info and just edit it if it turns out differently/false
+		   Continue with the last refrence mention
 
