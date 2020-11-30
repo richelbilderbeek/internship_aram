@@ -84,7 +84,6 @@ Time       |What                                    |Where
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 13:00-14:00|Meeting with Ines Daras                 |5173.581 (other side of building!)
-14:00-15:00|?Meeting with ?                         |5171.6??
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Tuesday December 1st 2020
@@ -94,6 +93,7 @@ Time       |What                                    |Where
  8:30-8:35 |Meeting Richel                          |Discord
 11:30-12:30|Meeting with Sami                       |5171.608 (right of Geert's office)
 12:30-13:30|Meeting with Alexine                    |5171.604
+14:30-15:30|Meeting with Pedro                      |Online on Discord
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
@@ -102,7 +102,7 @@ Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
 13:00-14:00|Meeting with Deepti                     |5171.604 (left of Geert's office) 
-14:00-15:00|?Meeting with Maxim                     |5171.6?? (right of Geert's office)
+14:00-15:00|Meeting with Maxim                      |5171.608 (right of Geert's office)
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Thursday December 3rd 2020
