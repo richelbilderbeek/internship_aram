@@ -92,7 +92,6 @@ Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
 11:30-12:30|Meeting with Sami                       |5171.608 (right of Geert's office)
-12:30-13:30|Meeting with Alexine                    |5171.604
 14:30-15:30|Meeting with Pedro                      |Online on Discord
 15:55-16:00|Meeting Richel                          |Discord
 
@@ -110,6 +109,7 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
+?          |Meeting with Alexine                    |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday December 4th 2020
