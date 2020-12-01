@@ -109,7 +109,7 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-?          |Meeting with Alexine                    |5171.604
+14:00-15:00|Meeting with Alexine                    |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday December 4th 2020
