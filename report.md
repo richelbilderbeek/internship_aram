@@ -55,6 +55,10 @@ Guidelines:
 [What are the flaws in this research? Note: 'lack of time' is not a flaw, 
 an unfinished/messy story is]
 
+## Acknowledgements
+
+[Thank the people that volunteered to help you]
+
 ## References
 
  * [Krogh et al., 2001] 
