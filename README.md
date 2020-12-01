@@ -31,9 +31,9 @@ Time       |What                                    |Where
  9:00-10:00|MOLIMM meeting                          |`https://meet.google.com/???-????-cez`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 12:15-12:20|Meeting with Richel outside             |Secondary entrance labeled 2 on map
-12:30-13:00|Meeting with Anmara                     |5171.070? (aka The Secretary's Office)
-13:00-14:00|Meeting with Pieter                     |5171.0606
-14:00-15:00|Meeting with Hugo                       |5171.0626 (aka The Student Room)
+12:30-13:00|Meeting with Anmara Kuitert             |5171.070? (aka The Secretary's Office)
+13:00-14:00|Meeting with Pieter Grijpstra           |5171.0606
+14:00-15:00|Meeting with Hugo Markus                |5171.0626 (aka The Student Room)
 15:45-16:00|Meeting Richel                          |Discord
 
 ## Tuesday November 24th 2020
@@ -41,8 +41,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:40 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Jelleke                    |5171.0626 (aka The Student Room)
-14:00-15:00|Meeting with Jildau                     |5171.0606
+13:00-14:00|Meeting with Jelleke de Jonge           |5171.0626 (aka The Student Room)
+14:00-15:00|Meeting with Jildau van der Ven         |5171.0606
 15:50-16:00|Meeting Richel                          |Discord
 
 ## Wednesday November 25th 2020
@@ -50,8 +50,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Shweta                     |5171.0603
-14:00-15:00|Meeting with Marco                      |5171.0626 (aka The Student Room)
+13:00-14:00|Meeting with Shweta Mahajan             |5171.0603
+14:00-15:00|Meeting with Marco Venema               |5171.0626 (aka The Student Room)
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Thursday November 26th 2020
@@ -59,24 +59,20 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Felix                      |5171.603
-14:00-15:00|Meeting with Myrthe                     |5171.604
+13:00-14:00|Meeting with Felix Faas                 |5171.603
+14:00-15:00|Meeting with Myrthe Frans               |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday November 27th 2020
 
- * Maybe a nice day to run the `pureseqtmr` SARS-CoV-2 code
-
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Sjors                      |5171.604
-14:00-15:00|Meeting with Femmy                      |5171.60?
+13:00-14:00|Meeting with Sjors Maassen              |5171.604
+14:00-15:00|Meeting with Femmy Stempels             |5171.60?
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Monday November 30th 2020
-
- * Maybe a nice day to run the `tmhmm` SARS-CoV-2 code on Peregrine
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
@@ -84,6 +80,7 @@ Time       |What                                    |Where
  9:00-10:00|Cell biology meeting                    |`https://meet.google.com/???-????-dbq`
 10:00-11:00|MOLIMM informal meeting                 |`https://meet.google.com/???-????-mzm`
 13:00-14:00|Meeting with Ines Daras                 |5173.581 (other side of building!)
+14:00-15:00|Meeting with Stefano Tiso               |5173.581 (other side of building!)
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Tuesday December 1st 2020
@@ -91,9 +88,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-11:30-12:30|Meeting with Sami                       |5171.608 (right of Geert's office)
-12:30-13:30|Meeting with Alexine                    |5171.604
-14:30-15:30|Meeting with Pedro                      |Online on Discord
+11:30-12:30|Meeting with Sami Balahsioui            |5171.608 (right of Geert's office)
+14:30-15:30|Meeting with Pedro Neves                |Online on Discord
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Wednesday December 2nd 2020
@@ -101,8 +97,8 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with Deepti                     |5171.604 (left of Geert's office) 
-14:00-15:00|Meeting with Maxim                      |5171.608 (right of Geert's office)
+13:00-14:00|Meeting with Deepti Dabral              |5171.604 (left of Geert's office) 
+14:00-15:00|Meeting with Maxim Baranov              |5171.608 (right of Geert's office)
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Thursday December 3rd 2020
@@ -110,13 +106,11 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|?Meeting with postdoc                   |5171.6??
-14:00-15:00|?Meeting with postdoc                   |5171.6??
+13:00-14:00|Meeting with student                    |5171.626 (aka the student room)
+14:00-15:00|Meeting with Alexine de Wit             |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
 ## Friday December 4th 2020
-
-:warning: not discussed with Aram yet :warning:
 
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
@@ -124,7 +118,7 @@ Time       |What                                    |Where
 9:30-9:35  |Meeting Richel                          |Discord
 15:14      |Hand in report                          |On GitHub
 15:14-15:30|Evaluate                                |Area near coffee machine
-15:30-16:30|Meeting with prof                       |5171.6?? (aka Geerts's office)
+15:30-16:30|Meeting with Geert van den Bogaart      |5171.6?? (aka Geerts's office)
 
 ## Questions for supervisors
 
