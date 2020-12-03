@@ -19,7 +19,8 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 
 ## Deliverables
 
-A [report](report.md)
+A [report](report.md), 
+with the same setup as [this one](https://github.com/richelbilderbeek/internship_marijn/blob/master/report.md).
 
 ## Planning
 
