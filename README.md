@@ -106,7 +106,6 @@ Time       |What                                    |Where
 Time       |What                                    |Where
 -----------|----------------------------------------|-------------------------------------------------
  8:30-8:35 |Meeting Richel                          |Discord
-13:00-14:00|Meeting with student                    |5171.626 (aka the student room)
 14:00-15:00|Meeting with Alexine de Wit             |5171.604
 15:55-16:00|Meeting Richel                          |Discord
 
