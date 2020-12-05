@@ -19,7 +19,7 @@ Internship of Aram at the Rijksuniversiteit Groningen.
 
 ## Deliverables
 
-A [report](report.md), 
+A [report](Report.odt), 
 with the same setup as [this one](https://github.com/richelbilderbeek/internship_marijn/blob/master/report.md).
 
 ## Planning
@@ -175,6 +175,6 @@ To learn how working at a university is like.
 
 ### What will the intern deliver?
 
-A [report](report.md).
+A [report](Report.odt).
 
 
